@@ -1,3 +1,5 @@
+currentBuild.displayName = "Warp9_GitHub-Pipelines-#"+currentBuild.number
+
 pipeline {
     agent any
     stages {
